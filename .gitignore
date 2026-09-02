@@ -1,0 +1,16 @@
+# Build and output directories
+bin/
+dcu/
+
+# Delphi temporary and user-specific files
+__recovery/
+*.~*
+*.local
+*.identcache
+*.stat
+*.tvsconfig
+*.dsk
+
+# Executable binaries
+*.exe
+*.rsm
